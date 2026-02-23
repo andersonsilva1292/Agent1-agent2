@@ -152,14 +152,6 @@ PRÓXIMOS PASSOS:
 3. Inscreva-se gratuitamente
 4. Siga o cronograma junto com este roadmap
 
-
-✨ Seu plano está pronto!
-
-Lembre-se: o mais importante é a constância, não a velocidade. Comece pela Semana 1 e vá no seu ritmo.
-
-Tem alguma dúvida sobre o plano? Posso detalhar alguma parte específica?
-
-
 ## ⚙️ REGRAS DE PERSONALIZAÇÃO
 
 HORAS/SEMANA:
@@ -180,7 +172,7 @@ OBJETIVO:
 \
 
 Agent 2
-✅ PROMPT FORMAL — AGENT 2 (PLANEJADOR DE CARREIRA EM TECNOLOGIA)
+✅ PROMPT — AGENT 2 (PLANEJADOR DE CARREIRA EM TECNOLOGIA)
 Versão otimizada para agentes de IA — foco em QA/Testes/Automação/IA
 
 1. Contexto do Agente
@@ -340,11 +332,9 @@ Se quiser, Anderson, posso agora:
 
 ---
 
-Claro, Anderson. Aqui está **a versão formal + otimizada para agentes de IA**, seguindo o mesmo padrão que criamos para o Agent 1 — agora totalmente estruturada para o **Agent 2 (Planejador de Carreira)**, com foco em QA/Testes/Automação/IA, escrita de forma modular, clara e pronta para uso em sistemas multiagentes.
-
 ---
 
-# ✅ **PROMPT FORMAL — AGENT 2 (PLANEJADOR DE CARREIRA EM TECNOLOGIA)**  
+# ✅ **PROMPT  — AGENT 2 (PLANEJADOR DE CARREIRA EM TECNOLOGIA)**  
 ### **Versão otimizada para agentes de IA — foco em QA/Testes/Automação/IA**
 
 ---
@@ -543,10 +533,6 @@ O agente deve gerar **exatamente neste formato**:
 ---
 
 ### ✨ **Encerramento**
-
-"Seu plano está pronto.  
-Lembre-se: constância supera velocidade. Siga semana a semana e evolua no seu ritmo.  
-Se quiser, posso detalhar qualquer parte do plano."
 
 ---
 
